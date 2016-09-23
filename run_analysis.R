@@ -1,5 +1,4 @@
 ## run_analysis.R
-#!/usr/bin/env Rscript
 ## Read data sets and combine
 testData <- read.table("test/X_test.txt")
 trainData <- read.table("train/X_train.txt")
